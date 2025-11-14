@@ -13,3 +13,6 @@ The time it takes for videos to appear on trending
 Ratio of likes to dislikes across categories
 Visualize trends and patterns to facilitate understanding of YouTube audience behavior.
 Provide a clean, structured dataset that can be used for further analysis, machine learning modeling, or reporting.
+
+## Dataset
+The dataset is a dataset containing data and statistics of trending youtube videos from different countries. The dataset can be found here:https://www.kaggle.com/datasets/datasnaek/youtube-new
